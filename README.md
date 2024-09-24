@@ -34,5 +34,5 @@ Big fan of **ReactJs** <img src="https://upload.wikimedia.org/wikipedia/commons/
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxgarcia123&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxgarcia123&layout=compact&theme=transparent)
 
