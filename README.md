@@ -1,7 +1,5 @@
 Hi 👋🏼 ! I'm **Max Garcia** a **Web and mobile Developer** for over 4 years. 
 
-I'm the creator of the **[🐺 Werewolves Assistant](https://werewolves-assistant.com)**, a web application to help you play the famous game of Werewolves of Millers Hollow with your friends as the Game Master.
-
 My main markup / styling / programming languages are **HTML** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="html" width=17 height=auto/>, **CSS** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/640px-CSS3_logo.svg.png" alt="CSS" width=15 height=auto/>, and **TypeScript** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="sass" width=15 height=auto color="white"/>.
 
 Big fan of **ReactJs** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="reactJs" width=15 height=auto/> and **NextJs** <img style="background-color: white; border-radius: 100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tabler-icons_brand-nextjs.svg/640px-Tabler-icons_brand-nextjs.svg.png" alt="Nextjs" width=15 height=auto/>  for building my web projects and for my mobile projects **React Native** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="react native" width=15 height=auto/> with  **StyledComponents** 💅. 
